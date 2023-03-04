@@ -1,4 +1,4 @@
-# Nicolasjcaseres.github.io
+# Nicolas Caséres Portfolio
 Nicolasjcaseres
 
-Hola! Mi nombre es Nicolás Cáseres.
+Hi! My name is Nicolas Caseres and this is my portfolio.
